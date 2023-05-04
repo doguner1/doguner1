@@ -39,9 +39,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=doguner1&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 </div>
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doguner1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="45%"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doguner1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="45%" height="200"
 <div align="right">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=doguner1&theme=dark&hide_border=false" width="50%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=doguner1&theme=dark&hide_border=false" width="50%" height="200" />
 </div>
 
 
