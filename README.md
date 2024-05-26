@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **SAP Advanced Business Application Programming Developer**
 
-- 🌱 I’m currently learning **Java&SpringBot and React, SAP ABAP, Python**
+- 🌱 I’m currently learning **Swift, SAP ABAP, Python**
 
 - 🔭 I’m currently working on **Patika.dev**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Swift, java**
 
 - 🎧 Currently listening to my Spotify playlist: [LISTEN](https://open.spotify.com/playlist/64XnqkCCmJEfDdYdyTnsqQ?si=FG617ymsRn2mdc4BSUKyJg)
 
