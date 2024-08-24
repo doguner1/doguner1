@@ -6,15 +6,13 @@
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=doguner1&label=Profile%20views&color=0e75b6&style=flat" alt="doguner1" /> </p>
 
-- 🔭 I’m currently working on **SAP Advanced Business Application Programming Developer**
+- 🔭 I worked on it **SAP Advanced Business Application Programming Developer**
 
 - 🌱 I’m currently learning **Swift, SAP ABAP, Python**
 
-- 🔭 I’m currently working on **Patika.dev**
+- 🔭 I worked on it **Patika.dev**
 
 - 💬 Ask me about **Swift, java**
-
-- 🎧 Currently listening to my Spotify playlist: [LISTEN](https://open.spotify.com/playlist/64XnqkCCmJEfDdYdyTnsqQ?si=FG617ymsRn2mdc4BSUKyJg)
 
 - 📫 How to reach me **d.gunr@yaani.com**
 
